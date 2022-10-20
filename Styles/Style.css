@@ -186,3 +186,18 @@ justify-items: center;
     margin-top: 1rem;
    max-width: 460px;
   }
+
+  /* blog  */
+
+
+  .blog-article  {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  padding: 20px;
+  }
+
+  .data  h5 {
+    line-height: 1.7;
+  }
